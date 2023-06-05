@@ -18,3 +18,5 @@ The Fuel Management System provides a user-friendly interface and a seamless exp
 For any assistance or issues, feel free to pull request
 
 The repository includes well-organized code files, documentation, and guidelines for installation, configuration, and usage. It promotes collaboration among developers and provides version control for easy tracking of changes and bug fixes.
+
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/eca7d48c-d67a-4f01-80ca-d888f11162d5)
