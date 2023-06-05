@@ -19,4 +19,24 @@ For any assistance or issues, feel free to pull request
 
 The repository includes well-organized code files, documentation, and guidelines for installation, configuration, and usage. It promotes collaboration among developers and provides version control for easy tracking of changes and bug fixes.
 
+1. Login Page:
 ![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/eca7d48c-d67a-4f01-80ca-d888f11162d5)
+
+2. Create Admin Page:
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/3ee93656-6c3d-4fb9-a84a-c64baf3bca57)
+
+3. Forgot Password Page:
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/01080e88-71ef-4c3d-9a89-afa465d43ccd)
+
+4. Customer Registration:
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/de04dcc8-3b2c-4907-9134-0a7065e81659)
+
+5. Buying Page:
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/c4b6c81d-a975-46c1-b995-0997d4f32bcf)
+
+6. Inventory Page:
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/51bcb310-0213-46d0-91af-2ee7e8be2d8b)
+
+7. Report Page:
+![image](https://github.com/ruchirjainn/fuelManagementSystem/assets/114685271/83839e19-22a7-4f5f-be01-9aef24474af0)
+
