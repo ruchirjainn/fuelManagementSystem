@@ -1,0 +1,9 @@
+			WELCOME!
+
+ BILL NUMBER : 1202
+ CUSTOMER NAME : Dhruvin Jain
+ PHONE NUMBER : 7666696666
+===========================================================
+ FUEL		QUANTITY		PRICE/L		TOTAL PRICE
+===========================================================
+ PETROL		1		110		110
